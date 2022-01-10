@@ -12,6 +12,10 @@ Note:-
 - Jupyter notebook(.ipynb) files are stored in each folder separately for every county.
 - python(.py) file is in the main directory used to refer the possiblities of automation in a single function
 
+**Deployment**
+- All the pickle files are in the respective folder
+- Please visit my [web-application](https://tirumaleshndeployments2022.herokuapp.com/) to check out the deployment
+
 **Libraries used:**
 - Pandas [Visit documentation](https://pandas.pydata.org/docs/)
   - Data manipulation
