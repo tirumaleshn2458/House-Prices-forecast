@@ -8,9 +8,9 @@ Note:-
 - The whole work-flow is based only on Prophet for training the data.
 
 **Libraries used:**
-- Pandas
+- Pandas [Reference](https://pandas.pydata.org/docs/)
   - Data manipulation
-- prophet(from facebook)
+- prophet(from facebook) [Reference](https://facebook.github.io/prophet/docs/quick_start.html)
   - Visualization
   - Model training
   - Model evaluation
@@ -50,4 +50,4 @@ Note:- *Values in 'Date' feature is same for both the Median and Average Sale Pr
 - At the end of the process, the trained model is saved for every county. 
     
    
-       
+   
