@@ -16,7 +16,7 @@ Note:-
   - Model evaluation
 
 **Data Collection**
-Data is downlaoded from [here](https://catalog.data.gov/dataset/monthly-sale-price-of-single-family-homes-in-ct/)
+- Data is downloaded from [here](https://catalog.data.gov/dataset/monthly-sale-price-of-single-family-homes-in-ct/)
 
 **Data handling**
 - The dataframe is categorized into different dataframes based on county name.
