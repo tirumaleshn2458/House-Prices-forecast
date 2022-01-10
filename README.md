@@ -38,6 +38,8 @@ Data is downlaoded from [here](https://catalog.data.gov/dataset/monthly-sale-pri
     - Extracting only two features such as 'Date' and 'Median Sale Price'.
   - To forecast the average sale price, we need to drop average sale price and proceed because we have to use only average sale price data in dataframe.
     - Extracting only two features such as 'Date' and 'Average Sale Price'.
+
+
 Note:- *Values in 'Date' feature is same for both the Median and Average Sale Price*
 **Model training**
 - Once the dataframe is finalized we need to change the column names of the dataframe.
