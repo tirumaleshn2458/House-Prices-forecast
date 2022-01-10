@@ -8,9 +8,9 @@ Note:-
 - The whole work-flow is based only on Prophet for training the data.
 
 **Libraries used:**
-- Pandas [Reference](https://pandas.pydata.org/docs/)
+- Pandas [Visit documentation](https://pandas.pydata.org/docs/)
   - Data manipulation
-- prophet(from facebook) [Reference](https://facebook.github.io/prophet/docs/quick_start.html)
+- prophet(from facebook) [Visit documentation](https://facebook.github.io/prophet/docs/quick_start.html)
   - Visualization
   - Model training
   - Model evaluation
