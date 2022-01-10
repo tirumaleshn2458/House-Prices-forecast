@@ -3,7 +3,7 @@
 ### Models used:- Prophet, ARIMA, SARIMA
 Note:- 
 - ARIMA and SARIMA models doesn't fit for the data given due it's bad accuracy. 
-  - You can view the files reagarding the accuracy in connecticut_ARIMA folder
+  - You can view the files reagarding the accuracy in Connecticut folder.
 - As an alternative, Prophet is used to fit data of every county. 
 - The whole work-flow is based only on Prophet for training the data.
 
