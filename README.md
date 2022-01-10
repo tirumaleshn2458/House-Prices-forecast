@@ -8,6 +8,10 @@ Note:-
 - The whole work-flow is based only on Prophet for training the data.
 - All jupyter notebooks contains python code only.
 
+**Files:-**
+- Jupyter notebook(.ipynb) files are stored in each folder separately for every county.
+- python(.py) file is in the main directory used to refer the possiblities of automation in a single function
+
 **Libraries used:**
 - Pandas [Visit documentation](https://pandas.pydata.org/docs/)
   - Data manipulation
