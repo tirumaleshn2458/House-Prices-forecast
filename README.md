@@ -6,6 +6,7 @@ Note:-
   - You can view the files reagarding the accuracy in Connecticut folder.
 - As an alternative, Prophet is used to fit data of every county. 
 - The whole work-flow is based only on Prophet for training the data.
+- All jupyter notebooks contains python code only.
 
 **Libraries used:**
 - Pandas [Visit documentation](https://pandas.pydata.org/docs/)
